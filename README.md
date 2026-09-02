@@ -17,16 +17,18 @@ Last updated: September 2026.
 
 | Date              | Event                                      | Venue                  | Presentation title                                                              | URL (video / slides) |
 |-------------------|--------------------------------------------|------------------------|---------------------------------------------------------------------------------|----------------------|
-| April/May 2026   | JCON EUROPE 2026                          | Köln, Germany         | AI/Jakarta EE topics including Google’s A2A protocol and Jakarta EE server implementation | Related video: https://www.youtube.com/watch?v=L1hX3EqyvsI (and JAVAPRO playlist) |
-| May 2026         | MakeIT 2026 / JCON OpenBlend Slovenia 2026 | Portorož, Slovenia    | AI in Java – We’ve built a Server-side enterprise MCP server for Jakarta EE developers | Slides: SlideShare (AI in Java – We’ve built a Server-side enterprise MCP server… JCON Slovenia 2026) |
+| 21 April 2026   | JCON EUROPE 2026                          | Köln, Germany         | AI in Java: We've Built a Server-Side Enterprise Google Agent2Agent for Jakarta EE Developers | Video coming soon <p />Slides: https://www.slideshare.net/slideshow/building-a-server-side-enterprise-agent2agent-a2a-protocol-for-jakarta-ee-developers/287148257 |
+| 30 April 2026   | AmsterdamJUG                          | Amsterdam, Netherlands         | AI in the Enterprise: The Jakarta EE way! | Slides: https://www.slideshare.net/slideshow/integrating-ai-in-enterprise-applications-using-jakarta-ee-framework/287297275 |
+| 27 May 2026         | MakeIT 2026 / JCON OpenBlend Slovenia 2026 | Portorož, Slovenia    | LangChain4J-CDI in Action (Workshop) | GitHub: https://github.com/TheEliteGentleman/langchain4j-cdi-lab-jcon-slovenia-2026 |
+| 29 May 2026         | MakeIT 2026 / JCON OpenBlend Slovenia 2026 | Portorož, Slovenia    | AI in Java – We’ve built a Server-side enterprise MCP server for Jakarta EE developers | Slides: https://www.slideshare.net/slideshow/ai-in-java-we-ve-built-a-server-side-enterprise-mcp-server-for-jakarta-ee-developers-jcon-slovenia-2026/288000707 |
 
 ### 2025
 
 | Date              | Event                                      | Venue                              | Presentation title                                              | URL (video / slides) |
 |-------------------|--------------------------------------------|------------------------------------|-----------------------------------------------------------------|----------------------|
 | 26 April 2025    | Skills Development and Entrepreneurship workshop | YMCA Ga-Rankuwa Hall, Ga-Rankuwa, South Africa | Treat yourself as a business (Each one teach one)              | Video: https://www.youtube.com/watch?v=fxsIVrhboOA<br>Slides: https://www.slideshare.net/slideshow/treat-yourself-as-a-business-each-one-teach-one/279603603 |
-| 17 September 2025  | Jakarta Tech Talk                         | Virtual                           | Building and hosting an MCP server with Jakarta EE             | Video: https://www.youtube.com/watch?v=SaqhJnYpvOk<br>Slides: SlideShare (Jakarta Tech Talk – Building and hosting an MCP server with Jakarta EE) |
-| 2 December 2025  | JakartaOne Livestream 2025                | Virtual                           | Introducing Langchain4J-CDI, a simplified approach to building AI agents the Jakarta EE way | Event: https://jakartaone.jakarta.ee/2025/<br>Slides: SlideShare (Introducing Langchain4J-CDI...) |
+| 17 September 2025  | Jakarta Tech Talk                         | Virtual                           | Building and hosting an MCP server with Jakarta EE             | Video: https://www.youtube.com/watch?v=SaqhJnYpvOk <p /> Slides: https://www.slideshare.net/slideshow/jakarta-tech-talk-building-and-hosting-an-mcp-server-with-jakarta-ee-e57d/283228624 |
+| 2 December 2025  | JakartaOne Livestream 2025                | Virtual                           | Introducing Langchain4J-CDI, a simplified approach to building AI agents the Jakarta EE way | Slides: https://www.slideshare.net/slideshow/introducing-langchain4j-cdi-a-simplified-approach-to-building-ai-agents-the-jakarta-ee-way/284443053 <p />YouTube: https://www.youtube.com/watch?v=sue_ome-Bsg |
 
 ### 2024
 
@@ -63,6 +65,7 @@ Last updated: September 2026.
 
 | Approximate Date | Interview / Podcast                  | Interviewer / Host          | Topic / Context                                      | URL |
 |------------------|--------------------------------------|-----------------------------|------------------------------------------------------|-----|
+| 22 April 2026        | Baruch Sadogursky (jbaruch) | AI Native Dev + JavaPro  | Buhake Sindi on Google's A2A protocol and a Jakarta EE server implementation — JCON 2026 | Video: https://www.youtube.com/watch?v=L1hX3EqyvsI |
 | May 2026        | Foojay Podcast #94                  | Foojay / Friends of OpenJDK | Discussion of his JCON Europe talks (Jakarta EE, AI, A2A) | https://foojay.io/today/foojay-podcast-94-more-than-a-blog-how-foojay-connects-sustains-and-evolves-the-java-community/ |
 | June 2026       | Interview with Adam Bien (Airhacks) | Adam Bien                   | Conversation at JCON Europe 2026 (bucket-list interview) | https://www.youtube.com/shorts/SWiVyrY0V5g (and related short: https://www.youtube.com/shorts/ph1WDqlwv7U) |
 
