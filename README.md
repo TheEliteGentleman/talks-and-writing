@@ -1,5 +1,5 @@
-# talks-and-writing
-This is the repository of all my talks, workshops, interviews and my published technical writing articles and posts, across industries.
+# Talks and writing
+This is the repository of all my talks, workshops, interviews, and published technical writing articles and posts across industries.
 
 Last updated: September 2026.
 
@@ -7,7 +7,7 @@ Last updated: September 2026.
 - Venue = “Virtual” for online events.
 - URLs include video and/or slides where publicly available.
 - Jozi-JUG meetups are excluded, as it's a Monthly local Java Meetup.
-- Interviews section lists cases where Buhake was interviewed, i.e., he was the **interviewee**.
+- The Interviews section lists cases where Buhake was interviewed, i.e., he was the **interviewee**.
 
 ---
 
@@ -96,7 +96,7 @@ Last updated: September 2026.
 |-------------------|-----------------------------------------------------------------------|-----|
 | 30 June 2026    | API Development: Implementing an HTTP POST/SSE event in Jakarta REST | https://javapro.io/2026/06/30/api-development-implementing-an-http-post-sse-event-in-jakarta-rest/ |
 | 25 February 2026 | Bring AI into your Jakarta EE apps with LangChain4J-CDI (formerly SmallRye-LLM) | https://javapro.io/2026/02/25/bring-ai-into-your-jakarta-ee-apps-with-langchain4j-cdi-formerly-smallrye-llm/ |
-| 3 February 2026 | Build your custom plugins for your enterprise java applications with Jakarta EE CDI | https://javapro.io/2026/02/03/build-your-custom-plugins-for-your-enterprise-java-applications-with-jakarta-ee-cdi/ |
+| 3 February 2026 | Build your custom plugins for your enterprise Java applications with Jakarta EE CDI | https://javapro.io/2026/02/03/build-your-custom-plugins-for-your-enterprise-java-applications-with-jakarta-ee-cdi/ |
 
 ---
 
@@ -110,7 +110,7 @@ Last updated: September 2026.
 - Foojay.io author: https://foojay.io/today/author/buhake-sindi/
 
 ## Blog posts
-- Personal / technical blog references: historically “The Elite Gentleman Writes…” / related (mentioned on Stack Exchange and profiles): https://deventerpriselog.blogspot.com/
+- Personal/technical blog references: historically “The Elite Gentleman Writes…” / related (mentioned on Stack Exchange and profiles): https://deventerpriselog.blogspot.com/
 - Dev.to: https://dev.to/theelitegentleman
 
 For the absolute latest information, check the sources above directly.
