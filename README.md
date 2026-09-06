@@ -38,7 +38,7 @@ Last updated: September 2026.
 | Date              | Event                          | Venue          | Presentation title                              | URL (video / slides) |
 |-------------------|--------------------------------|----------------|-------------------------------------------------|----------------------|
 | 16 May 2024         | JCON EUROPE 2024              | Köln, Germany | Embracing the cloud: A Java Developer’s guide to Jakarta EE on the cloud – A Real World Example.        | Video: https://www.youtube.com/watch?v=gTybQ8V3Tz0 <p /> Slides: https://www.slideshare.net/slideshow/embracing-the-cloud-a-java-developer-s-guide-to-jakarta-ee-on-the-cloud-a-real-world-example/269674775 |
-| 3 December 2024  | JakartaOne Livestream 2024    | Virtual       | Jakarta EE Meets AI / Jakarta meets AI          | Video: https://www.youtube.com/watch?v=tqy9Jet9oEs <p />Slides: https://www.slideshare.net/slideshow/jakarta-meets-ai-jakartaee-one-livestream-presentation/273810814 |
+| 03 December 2024  | JakartaOne Livestream 2024    | Virtual       | Jakarta EE Meets AI / Jakarta meets AI          | Video: https://www.youtube.com/watch?v=tqy9Jet9oEs <p />Slides: https://www.slideshare.net/slideshow/jakarta-meets-ai-jakartaee-one-livestream-presentation/273810814 |
 
 ### 2023
 
