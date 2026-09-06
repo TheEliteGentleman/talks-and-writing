@@ -95,7 +95,7 @@ Last updated: September 2026.
 
 | Date              | Publication                                                           | Publication type | URL |
 |-------------------|-----------------------------------------------------------------------|------------------|-----|
-| 30 June 2026    | API Development: Implementing an HTTP POST/SSE event in Jakarta REST | Magazine/article | Article: https://javapro.io/2026/06/30/api-development-implementing-an-http-post-sse-event-in-jakarta-rest/ <p />PDF: https://javapro.io/wp-content/uploads/2026/02/JAVAPRO_02-2026.pdf | 
+| 30 June 2026    | API Development: Implementing an HTTP POST/SSE event in Jakarta REST | Magazine/Article | Article: https://javapro.io/2026/06/30/api-development-implementing-an-http-post-sse-event-in-jakarta-rest/ <p />PDF: https://javapro.io/wp-content/uploads/2026/02/JAVAPRO_02-2026.pdf | 
 | 25 February 2026 | Bring AI into your Jakarta EE apps with LangChain4J-CDI (formerly SmallRye-LLM) | Article | https://javapro.io/2026/02/25/bring-ai-into-your-jakarta-ee-apps-with-langchain4j-cdi-formerly-smallrye-llm/ |
 | 03 February 2026 | Build your custom plugins for your enterprise Java applications with Jakarta EE CDI | Magazine/Article | Article: https://javapro.io/2026/02/03/build-your-custom-plugins-for-your-enterprise-java-applications-with-jakarta-ee-cdi/ <p />PDF: https://javapro.io/wp-content/uploads/2025/10/JAVAPRO_04-2025_Java-25.pdf |
 
