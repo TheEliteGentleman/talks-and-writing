@@ -29,6 +29,7 @@ Last updated: September 2026.
 | Date              | Event                                      | Venue                              | Presentation title                                              | URL (video / slides) |
 |-------------------|--------------------------------------------|------------------------------------|-----------------------------------------------------------------|----------------------|
 | 26 April 2025    | Skills Development and Entrepreneurship workshop | YMCA Ga-Rankuwa Hall, Ga-Rankuwa, South Africa | Treat yourself as a business (Each one teach one)              | Video: https://www.youtube.com/watch?v=fxsIVrhboOA<br>Slides: https://www.slideshare.net/slideshow/treat-yourself-as-a-business-each-one-teach-one/279603603 |
+| 26 July 2025    | Google Developer Groups Johannesburg - Build With AI Johannesburg: Winter Edition | BBD Office Rosebank | Building and Deploy Your AI Agents in Java | Slides: https://www.slideshare.net/slideshow/building-and-deploying-ai-agents-in-java/282062351 |
 | 17 September 2025  | Jakarta Tech Talk                         | Virtual                           | Building and hosting an MCP server with Jakarta EE             | Video: https://www.youtube.com/watch?v=SaqhJnYpvOk <p /> Slides: https://www.slideshare.net/slideshow/jakarta-tech-talk-building-and-hosting-an-mcp-server-with-jakarta-ee-e57d/283228624 |
 | 02 December 2025  | JakartaOne Livestream 2025                | Virtual                           | Introducing Langchain4J-CDI, a simplified approach to building AI agents the Jakarta EE way | Slides: https://www.slideshare.net/slideshow/introducing-langchain4j-cdi-a-simplified-approach-to-building-ai-agents-the-jakarta-ee-way/284443053 <p />YouTube: https://www.youtube.com/watch?v=sue_ome-Bsg |
 
@@ -36,7 +37,7 @@ Last updated: September 2026.
 
 | Date              | Event                          | Venue          | Presentation title                              | URL (video / slides) |
 |-------------------|--------------------------------|----------------|-------------------------------------------------|----------------------|
-| 16 May 2024         | JCON EUROPE 2024              | Köln, Germany | Embracing the cloud: A Java Developer’s guide to Jakarta EE on the cloud – A Real World Example.        | Video: https://www.youtube.com/watch?v=gTybQ8V3Tz0 <p /> Slides: [https://www.slideshare.net/slideshow/managing-data-in-jakarta-ee-applicationspptx/263978428](https://www.slideshare.net/slideshow/embracing-the-cloud-a-java-developer-s-guide-to-jakarta-ee-on-the-cloud-a-real-world-example/269674775) |
+| 16 May 2024         | JCON EUROPE 2024              | Köln, Germany | Embracing the cloud: A Java Developer’s guide to Jakarta EE on the cloud – A Real World Example.        | Video: https://www.youtube.com/watch?v=gTybQ8V3Tz0 <p /> Slides: https://www.slideshare.net/slideshow/embracing-the-cloud-a-java-developer-s-guide-to-jakarta-ee-on-the-cloud-a-real-world-example/269674775 |
 | 3 December 2024  | JakartaOne Livestream 2024    | Virtual       | Jakarta EE Meets AI / Jakarta meets AI          | Video: https://www.youtube.com/watch?v=tqy9Jet9oEs <p />Slides: https://www.slideshare.net/slideshow/jakarta-meets-ai-jakartaee-one-livestream-presentation/273810814 |
 
 ### 2023
@@ -57,7 +58,7 @@ Last updated: September 2026.
 
 | Date              | Event                          | Venue   | Presentation title                              | URL (video / slides) |
 |-------------------|--------------------------------|---------|-------------------------------------------------|----------------------|
-| 11 February 2021  | Developers User Group | Microsoft South Africa, Bryanston | Enterprise Java Made Simple with Java EE Successor, Jakarta EE 8   | Slides: [https://www.slideshare.net/slideshow/dockerizing-your-java-development-environment/250438386](https://www.slideshare.net/BuhakeSindi/bootstrapping-a-simple-enterprise-application-with-java-ee-successor-jakarta-ee-8-and-beyond) <p /> YouTube: https://www.youtube.com/watch?v=y4gO0j4ZKsI|
+| 11 February 2021  | Developers User Group | Microsoft South Africa, Bryanston | Enterprise Java Made Simple with Java EE Successor, Jakarta EE 8   | Slides: https://www.slideshare.net/BuhakeSindi/bootstrapping-a-simple-enterprise-application-with-java-ee-successor-jakarta-ee-8-and-beyond <p /> YouTube: https://www.youtube.com/watch?v=y4gO0j4ZKsI|
 | 12 October 2021  | I Code Java 2021 (ICJ21) / JavaAfrica | Virtual | Dockerizing your Java Development Environment   | Slides: https://www.slideshare.net/slideshow/dockerizing-your-java-development-environment/250438386 |
 | 31 October 2021  | Global Java Summit ’21 (hosted by Geekle) | Virtual | Dockerizing your Java Development Environment   | Slides: https://www.slideshare.net/slideshow/dockerizing-your-java-development-environment/250438386 <p /> Video: https://geekle.us/video_cluster/1620384773268x336150512099655700?video=1620939986073x377768009785388350 |
 
@@ -80,23 +81,23 @@ Last updated: September 2026.
 ### DZone Articles
 (Author page: https://dzone.com/authors/theelitegentleman – 6 articles listed)
 
-| Date              | Title                                                                 | URL |
+| Date              | Publication                                                                 | URL |
 |-------------------|-----------------------------------------------------------------------|-----|
 | 14/17 April 2025 | Introducing SmallRye LLM: Injecting Langchain4J AI Services          | https://dzone.com/articles/smallrye-llm-langchain4j-ai-services |
 | Updated Feb 2022 | Microservice: Creating JPA Application Using Jakarta Persistence API in Payara Micro | https://dzone.com/articles/microservice-creating-a-jdbc-datasource-in-payara |
 | Updated Jan 2021 | Getting Started With Jakarta EE 9                                    | https://dzone.com/articles/getting-started-with-jakarta-ee-9 |
 | Updated Dec 2020 / Sep 2021 notes | Understanding Jakarta EE 8 CDI (Part 2): Qualifying Your Beans      | https://dzone.com/articles/understanding-jakarta-ee-8-cdi-part-2-qualifying-your-beans |
 | 28 July 2020    | Best Practices for Java Deployments                                  | https://dzone.com/articles/best-practices-for-java-deployments |
-| Updated July 2020 | Understanding Jakarta EE 8 - CDI Part 1                             | https://dzone.com/articles/understanding-jarkarta-ee-8-cdi-part-1 |
+| 23 July 2020 | Understanding Jakarta EE 8 - CDI Part 1                             | https://dzone.com/articles/understanding-jarkarta-ee-8-cdi-part-1 |
 
 ### JavaPRO Articles
 (Author page: https://javapro.io/author/buhakesindi/ – 3 posts)
 
-| Date              | Title                                                                 | URL |
-|-------------------|-----------------------------------------------------------------------|-----|
-| 30 June 2026    | API Development: Implementing an HTTP POST/SSE event in Jakarta REST | https://javapro.io/2026/06/30/api-development-implementing-an-http-post-sse-event-in-jakarta-rest/ |
-| 25 February 2026 | Bring AI into your Jakarta EE apps with LangChain4J-CDI (formerly SmallRye-LLM) | https://javapro.io/2026/02/25/bring-ai-into-your-jakarta-ee-apps-with-langchain4j-cdi-formerly-smallrye-llm/ |
-| 3 February 2026 | Build your custom plugins for your enterprise Java applications with Jakarta EE CDI | https://javapro.io/2026/02/03/build-your-custom-plugins-for-your-enterprise-java-applications-with-jakarta-ee-cdi/ |
+| Date              | Publication                                                           | Publication type | URL |
+|-------------------|-----------------------------------------------------------------------|------------------|-----|
+| 30 June 2026    | API Development: Implementing an HTTP POST/SSE event in Jakarta REST | Magazine/article | Article: https://javapro.io/2026/06/30/api-development-implementing-an-http-post-sse-event-in-jakarta-rest/ <p />PDF: https://javapro.io/wp-content/uploads/2026/02/JAVAPRO_02-2026.pdf | 
+| 25 February 2026 | Bring AI into your Jakarta EE apps with LangChain4J-CDI (formerly SmallRye-LLM) | Article | https://javapro.io/2026/02/25/bring-ai-into-your-jakarta-ee-apps-with-langchain4j-cdi-formerly-smallrye-llm/ |
+| 03 February 2026 | Build your custom plugins for your enterprise Java applications with Jakarta EE CDI | Magazine/Article | Article: https://javapro.io/2026/02/03/build-your-custom-plugins-for-your-enterprise-java-applications-with-jakarta-ee-cdi/ <p />PDF: https://javapro.io/wp-content/uploads/2025/10/JAVAPRO_04-2025_Java-25.pdf |
 
 ---
 
