@@ -83,7 +83,7 @@ Last updated: September 2026.
 
 | Date              | Publication                                                                 | URL |
 |-------------------|-----------------------------------------------------------------------|-----|
-| 14/17 April 2025 | Introducing SmallRye LLM: Injecting Langchain4J AI Services          | https://dzone.com/articles/smallrye-llm-langchain4j-ai-services |
+| 14 April 2025 | Introducing SmallRye LLM: Injecting Langchain4J AI Services          | https://dzone.com/articles/smallrye-llm-langchain4j-ai-services |
 | Updated Feb 2022 | Microservice: Creating JPA Application Using Jakarta Persistence API in Payara Micro | https://dzone.com/articles/microservice-creating-a-jdbc-datasource-in-payara |
 | Updated Jan 2021 | Getting Started With Jakarta EE 9                                    | https://dzone.com/articles/getting-started-with-jakarta-ee-9 |
 | Updated Dec 2020 / Sep 2021 notes | Understanding Jakarta EE 8 CDI (Part 2): Qualifying Your Beans      | https://dzone.com/articles/understanding-jakarta-ee-8-cdi-part-2-qualifying-your-beans |
