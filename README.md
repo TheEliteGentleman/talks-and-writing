@@ -73,7 +73,7 @@ Last updated: September 2026.
 | May 2026        | Foojay Podcast #94                  | Foojay / Friends of OpenJDK | Discussion of his JCON Europe talks (Jakarta EE, AI, A2A) | https://foojay.io/today/foojay-podcast-94-more-than-a-blog-how-foojay-connects-sustains-and-evolves-the-java-community/ |
 | June 2026       | Interview with Adam Bien (Airhacks) | Adam Bien                   | Conversation at JCON Europe 2026 | https://www.youtube.com/shorts/SWiVyrY0V5g (and related short: https://www.youtube.com/shorts/ph1WDqlwv7U) |
 
-**Notes**: He has conducted many short interviews *of others* at JCON Europe 2026; those are excluded as he was the interviewer.
+**Notes**: I've excluded many short interviews *of others* at JCON Europe 2026. Those are interviews where I was the interviewer.
 
 ---
 
