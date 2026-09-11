@@ -7,7 +7,7 @@ Last updated: September 2026.
 - Venue = “Virtual” for online events.
 - URLs include video and/or slides where publicly available.
 - Jozi-JUG meetups are excluded, as it's a Monthly local Java Meetup.
-- The Interviews section lists cases where Buhake was interviewed, i.e., he was the **interviewee**.
+- The Interviews section lists cases where I was interviewed, i.e., I was the **interviewee**.
 
 ---
 
