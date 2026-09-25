@@ -24,6 +24,8 @@ Last updated: September 2026.
 | 21 September 2026   | Riyadh Java User Group (JUG)                          | Virtual         | Integrating AI into your existing enterprise Java application using LangChain4J-CDI | YouTube: https://www.youtube.com/watch?v=E3kd4I9c9DM <p />Speaker Deck: https://speakerdeck.com/elitegentleman/integrating-ai-into-your-existing-java-application-using-langchain4j-cdi |
 | 19 October 2026   | Ya!vaConf 2026                          | Virtual         | Seamlessly integrate AI services and your AI agents using LangChain4J-CDI | Register here: https://yavaconf.com/en/ |
 | 03 November 2026   | XtremeJ Online Conference 2026                          | Virtual         | Create Agentic AI workflows and orchestration using LangChain4J-CDI | Register here: https://xtremej.dev/2026/ |
+| 01 December 2026   | JakartaOne Livestream 2026                          | Virtual         | AI in Java: We've built a Server-side enterprise Google Agent2Agent for Jakarta EE developers | Register here: https://jakartaone.jakarta.ee/jakartaone-livestream-2026/ |
+
 
 ### 2025
 
