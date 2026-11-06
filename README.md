@@ -48,9 +48,9 @@ Last updated: September 2026.
 
 | Date              | Event                          | Venue          | Presentation title                              | URL (video / slides) |
 |-------------------|--------------------------------|----------------|-------------------------------------------------|----------------------|
-| 21 June 2023        | JCON EUROPE 2023              | Köln, Germany | Migrating from Java EE to Jakarta EE 10: Challenges and Opportunities                 | Slide: https://www.slideshare.net/BuhakeSindi/managing-data-in-jakarta-ee-applicationspptx <p /> YouTube Link: https://www.youtube.com/watch?v=CmWTZK-UL4Q |
-| 06 September 2023        | Jakarta Tech Talk              | Virtual | Migrating from Java EE to Jakarta EE 10: Challenges and Opportunities                 | YouTube: https://www.youtube.com/watch?v=UPx7EQBUTW8 |
-| 11 November 2023        | JCON World              | Virtual | Managing Data in Jakarta EE applications                 | Slide: https://www.slideshare.net/BuhakeSindi/managing-data-in-jakarta-ee-applicationspptx <p />YouTube Link: https://www.youtube.com/watch?v=zBXfca7mInc |
+| 21 June 2023        | JCON EUROPE 2023              | Köln, Germany | Migrating from Java EE to Jakarta EE 10: Challenges and Opportunities                 | Slides: https://www.slideshare.net/BuhakeSindi/managing-data-in-jakarta-ee-applicationspptx <p /> YouTube Link: https://www.youtube.com/watch?v=CmWTZK-UL4Q |
+| 06 September 2023        | Jakarta Tech Talk              | Virtual | Migrating from Java EE to Jakarta EE 10: Challenges and Opportunities                 | Slides: https://www.slideshare.net/slideshow/migration-from-java-ee-to-jakartaee-10-challenges-opportunities-258568288/258568288 <p />YouTube: https://www.youtube.com/watch?v=UPx7EQBUTW8 |
+| 11 November 2023        | JCON World              | Virtual | Managing Data in Jakarta EE applications                 | Slides: https://www.slideshare.net/BuhakeSindi/managing-data-in-jakarta-ee-applicationspptx <p />YouTube Link: https://www.youtube.com/watch?v=zBXfca7mInc |
 
 ### 2022
 
